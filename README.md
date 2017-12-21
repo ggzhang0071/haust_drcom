@@ -1,11 +1,13 @@
 # haust_drcom
 适用于haust的哆点，python开发，linux可用
 
-相关项目：
+相关参考：
         
         https://github.com/drcoms/drcom-generic
         
         https://github.com/muzhiyun/xsyudogcom
+        
+        https://www.iots.vip/post/drcom-1.html
         
 # 用法
         下载脚本，打开haust_drcom.py,填入帐号，密码，保存退出
