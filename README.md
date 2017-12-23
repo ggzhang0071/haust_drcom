@@ -1,3 +1,8 @@
+
+.. image:: https://img.shields.io/pypi/pyversions/Scrapy.svg
+   :target: https://pypi.python.org/pypi/Scrapy
+   :alt: Supported Python Versions
+
 # haust_drcom
 适用于haust的哆点，python开发，linux可用
 
