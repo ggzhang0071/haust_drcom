@@ -1,4 +1,4 @@
-！[python3](https://img.shields.io/pypi/pyversions/Scrapy.svg）
+![python3](https://img.shields.io/pypi/pyversions/Scrapy.svg)
 
 
 
