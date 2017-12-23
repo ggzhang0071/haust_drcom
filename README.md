@@ -1,6 +1,7 @@
-        ！[https://img.shields.io/pypi/pyversions/Scrapy.svg]
+---------
+！[https://img.shields.io/pypi/pyversions/Scrapy.svg]
 
-
+-----------
 
 # haust_drcom
 适用于haust的哆点，python开发，linux可用
