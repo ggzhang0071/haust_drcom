@@ -1,3 +1,4 @@
+![haust](http://english.haust.edu.cn/images/headerbg.gif)
 ![python3](https://www.python.org/static/community_logos/python-logo.png)
 ![haust](http://jwc.haust.edu.cn/images/links_4.gif)
 ![drcom](http://www.doctorcom.com/statics/images/duod/logo1.png)
