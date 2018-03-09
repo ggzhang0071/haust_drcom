@@ -22,14 +22,13 @@
         $ python haust_drcom.py 然后就可以愉快的上网了
         
  # 使用条件
-        目前仅在乾园6号楼测试过，其他的地方有待后续测试，欢迎交流
+        目前仅在乾6测试过，其他的地方有待后续测试，欢迎交流
         测试系统：kali linux 32 bit，关于系统详情，请自行谷歌百度，或私聊交流
         脚本运行环境 python3
         
         
 
 ### 项目不断维护中，敬请期待，欢迎私聊交流技术
-        贴吧讨论：http://tieba.baidu.com/p/5486931974?ie=utf-8
         愿意测试的联系我QQ：3378046857
 
 ![haust](http://www.liuxue86.com/images/college/328.jpg)
