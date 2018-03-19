@@ -7,6 +7,8 @@
 # haust_drcom
 适用于haust的哆点，python开发，linux可用
 
+-----------
+
 相关参考：
         
         https://github.com/drcoms/drcom-generic
@@ -17,6 +19,7 @@
         
    [协议参考](http://blog.csdn.net/qq340067153/article/details/4154343)
         
+-----------------
 # 用法
         下载脚本，打开haust_drcom.py,填入帐号，密码，保存退出
         $ python haust_drcom.py 然后就可以愉快的上网了
