@@ -1,6 +1,6 @@
 ![python3](https://www.python.org/static/community_logos/python-logo.png)
 ![haust](https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=c56f02170123dd542126af6ee1399fe6/e850352ac65c10385d3fb0b1ba119313b07e897b.jpg)
-![drcom](http://www.doctorcom.com/statics/images/duod/logo1.png)
+![drcom](./logo1.png)
 
 
 
